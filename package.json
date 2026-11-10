@@ -1,5 +1,5 @@
 {
-  "name": "bun-env",
+  "name": "lightweight-bun-env",
   "version": "1.0.0",
   "module": "index.ts",
   "type": "module",

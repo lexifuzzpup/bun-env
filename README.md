@@ -1,10 +1,10 @@
-# bun-env
+# lightweight-bun-env
 
 A lightweight environment variable parser for Bun. It should also work on Node.
 
 # Usage
 ```ts
-import { env } from "bun-env";
+import { env } from "lightweight-bun-env";
 
 /*
     strings can be loaded from env, with defaults allowed.
